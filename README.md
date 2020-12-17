@@ -1,6 +1,6 @@
 # My Profile
 
-Web Application Developer
+Developer
 
 [![](https://raw.githubusercontent.com/tungpv-0974/tungpv-0974/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/tungpv-0974/tungpv-0974)
 [![](https://raw.githubusercontent.com/tungpv-0974/tungpv-0974/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/tungpv-0974/tungpv-0974)
